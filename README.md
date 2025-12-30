@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Vighnesh (Vikky)
+## 👋 Hi, I'm Vighnesh SL (Vikky)
 ### MEAN / Full-Stack Developer
 
 🚀 I build scalable, production-ready web applications using **MongoDB, Express.js, Angular, Node.js, and NestJS**.  
@@ -35,9 +35,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VighneshVikky&theme=dark&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=vighneshvikky&theme=dark&hide_border=false&count_private=true)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VighneshVikky&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vighneshvikky&theme=dark&hide_border=false)
 
 ---
 
