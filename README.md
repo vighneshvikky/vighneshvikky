@@ -35,9 +35,12 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vighneshvikky&theme=dark&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=vighneshvikky&theme=dark&count_private=true)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vighneshvikky&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vighneshvikky&theme=dark)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshvikky&layout=compact&theme=dark)
+
 
 ---
 
